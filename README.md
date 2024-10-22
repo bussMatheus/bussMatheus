@@ -40,6 +40,4 @@ A repository of my C language projects at 42, focusing on low-level development,
 
 ## 📊 GitHub Stats
 
-![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=bussMatheus&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bussMatheus&layout=compact&theme=radical)
