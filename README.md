@@ -6,7 +6,7 @@ I'm a passionate software developer and computer science student at 42 Lisboa, w
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, Python, JavaScript, Html, SCSS
+- **Languages**: C, JavaScript, Html, SCSS
 - **Frameworks & Tools**: Git, Linux, Node Js, Make, Valgrind
 - **Projects**: Systems programming, Algorithms, Low-level programming
 
